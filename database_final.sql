@@ -1,7 +1,5 @@
 TRABALHO: Banco de Dados Final (SQLs QUERY REVISÃO)
-NOME: Alessandro César Rosão
-RA:25502
-
+	
 #---------------------------------------------
 # CRIANDO O BANCO DE DADOS
 #---------------------------------------------
